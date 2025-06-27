@@ -16,16 +16,16 @@ Alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 23 hrs 50 mins
+Total Time: 26 hrs 39 mins
 
-TypeScript    22 hrs 19 mins  ███████████████████████▒░   93.66 %
-JSON          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Other         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Text          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-XML           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-YAML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript    24 hrs 13 mins  ██████████████████████▓░░   90.87 %
+JSON          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Other         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+CSS           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Text          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+XML           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
