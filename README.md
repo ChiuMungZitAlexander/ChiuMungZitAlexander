@@ -16,16 +16,16 @@ Alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 19 hrs 12 mins
+Total Time: 19 hrs 26 mins
 
-TypeScript    10 hrs 15 mins  █████████████▒░░░░░░░░░░░   53.41 %
-JavaScript    4 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-JSON          2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-CSS           40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-TSConfig      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Markdown      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript    14 hrs 40 mins  ███████████████████░░░░░░   75.44 %
+JSON          2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JavaScript    1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+CSS           40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
