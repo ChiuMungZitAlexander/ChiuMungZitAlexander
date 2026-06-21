@@ -16,16 +16,16 @@ Alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2026 - To: 19 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
-Total Time: 16 hrs 52 mins
+Total Time: 16 hrs 37 mins
 
-TypeScript    9 hrs 3 mins          █████████████▒░░░░░░░░░░░   53.63 %
-Markdown      4 hrs 44 mins         ███████░░░░░░░░░░░░░░░░░░   28.08 %
-JSON          1 hr 42 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Other         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-HTML          22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Text          12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript    7 hrs 21 mins         ███████████░░░░░░░░░░░░░░   44.28 %
+Markdown      6 hrs 38 mins         ██████████░░░░░░░░░░░░░░░   39.95 %
+JSON          1 hr 27 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Other         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+HTML          20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Image (png)   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
