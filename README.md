@@ -7,7 +7,7 @@ Alto saxophist and music arranger
 
 
 ## GitHub Stats
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ChiuMungZitAlexander&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=ChiuMungZitAlexander&show_icons=true&include_all_commits=true&theme=shadow_blue)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alexandermzchiu&langs_count=6&theme=shadow_blue)](https://wakatime.com/@alexandermzchiu)
 
 
