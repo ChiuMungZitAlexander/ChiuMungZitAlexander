@@ -8,27 +8,8 @@ Alto saxophist and music arranger
 
 ## GitHub Stats
 
-<div style="display:flex;flex-wrap:no-wrap">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=chiumungzitalexander&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img alt="fav langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiumungzitalexander&exclude_repo=Amway-Thailand,Hybris-UI-UX-Core-Developmen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide=html,css,scss,mdx&hide_progress=true" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alexandermzchiu&langs_count=6&theme=shadow_blue)](https://wakatime.com/@alexandermzchiu)
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 01 July 2026 - To: 08 July 2026
-
-Total Time: 7 hrs 50 mins
-
-Markdown     3 hrs 4 mins          █████████▓░░░░░░░░░░░░░░░   39.13 %
-TypeScript   2 hrs 41 mins         ████████▓░░░░░░░░░░░░░░░░   34.27 %
-Other        1 hr 35 mins          █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-JSON         28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
 
 ## Tech Stacks
 
