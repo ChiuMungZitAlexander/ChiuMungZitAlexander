@@ -1,6 +1,7 @@
 ## Who Am I
 
 Developer(Typescript/Go)\
+Applied AI(ClaudeCode/Cursor)\
 React Chinese document contributor\
 MDN document contributor\
 Alto saxophist and music arranger
@@ -31,6 +32,8 @@ Alto saxophist and music arranger
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Supabase](https://img.shields.io/badge/-supabase-242424?style=flat-square&logo=supabase)
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-eb5f07?style=flat-square&logo=Amazon%20Web%20Services)
+![Claude](https://img.shields.io/badge/-ClaudeCode-C15F3C?style=flat-square&logo=claude)
+![Cursor](https://img.shields.io/badge/-Cursor-26251e?style=flat-square&logo=cursor)
 
 <p align="left">
   <img
